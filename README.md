@@ -48,3 +48,8 @@ python analyze.py
 
 # Dashboard (open the UI)
 streamlit run dashboard.py
+```
+
+<img width="1920" height="1080" alt="Ekran Görüntüsü (2237)" src="https://github.com/user-attachments/assets/1130734a-6c06-41fc-a368-6648b4a58e9b" />
+<img width="1920" height="1080" alt="Ekran Görüntüsü (2238)" src="https://github.com/user-attachments/assets/d93c30d9-d04c-4871-a3b9-e1d77484fcaa" />
+
