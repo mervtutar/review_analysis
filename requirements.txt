@@ -1,0 +1,13 @@
+google-play-scraper==1.2.4
+pandas
+pyarrow
+langdetect
+emoji
+unidecode
+scikit-learn
+sentence-transformers
+transformers
+torch
+streamlit
+simhash
+tqdm
